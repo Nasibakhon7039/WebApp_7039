@@ -1,0 +1,12 @@
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\bin\Debug\netcoreapp3.1\Udevs.DAL.deps.json
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\bin\Debug\netcoreapp3.1\Udevs.DAL.dll
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.csprojAssemblyReference.cache
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.AssemblyInfoInputs.cache
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.AssemblyInfo.cs
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\bin\Debug\netcoreapp3.1\Udevs.DAL.runtimeconfig.json
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\bin\Debug\netcoreapp3.1\Udevs.DAL.runtimeconfig.dev.json
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.genruntimeconfig.cache
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\bin\Debug\netcoreapp3.1\Udevs.DAL.pdb
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.dll
+\\peter\ZDrive\00007039\Desktop\WAD_WebApplication_7039\Udevs.DAL\obj\Debug\netcoreapp3.1\Udevs.DAL.pdb
